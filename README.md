@@ -15,10 +15,5 @@ A basic shell script that uses the AWS CLI to track and list various AWS resourc
   # Run the script:
                       ./aws_resource_tracker.sh
 
-    
-    
-    
-    
-    Contributing:-  Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
                     
