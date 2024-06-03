@@ -13,7 +13,7 @@ A basic shell script that uses the AWS CLI to track and list various AWS resourc
                                   chmod +x aws_resource_tracker.sh
 
   # Run the script:
-                       ./aws_resource_tracker.sh
+                      ./aws_resource_tracker.sh
 
     
     
