@@ -19,7 +19,6 @@ A basic shell script that uses the AWS CLI to track and list various AWS resourc
     
     
     
-    Contributing:-
-                   Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+    Contributing:-  Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
                     
